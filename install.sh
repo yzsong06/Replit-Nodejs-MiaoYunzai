@@ -16,7 +16,7 @@ pnpm install
 echo 获取运行指令文件
 cd ..
 wget -O .replit https://github.com/yzsong06/Replit-Nodejs-MiaoYunzai/raw/main/.replit
-wget -O .replit https://github.com/yzsong06/Replit-Nodejs-MiaoYunzai/raw/main/main.sh
+wget -O main.sh https://github.com/yzsong06/Replit-Nodejs-MiaoYunzai/raw/main/main.sh
 echo 部署完成！单击Run或按下键盘上的Ctrl+Enter以启动本项目
 echo 若出现登录问题请参考文档 https://www.wolai.com/oA43vuW71aBnv7UsEysn4T
 
