@@ -17,6 +17,8 @@ bash <(curl -s https://raw.githubusercontent.com/yzsong06/Replit-Nodejs-MiaoYunz
 bash <(curl -s https://raw.githubusercontent.com/yzsong06/Replit-Nodejs-MiaoYunzai/main/GuoBa.sh)
 ```
 - 安装锅巴插件后，重启Miao-Yunzai后，你会在Replit上发现一个Webview窗口，窗口上方链接即为Replit锅巴管理后台链接，在QQ上对机器人私聊发送`#锅巴登录`后得到的外网链接（IP地址）后面的内容粘贴到Replit获取到的管理后台链接后面即可登录访问锅巴后台，你也可以在Replit设置里绑定自己的域名使用
+### 安装其他插件
+- 在Replit Shell中使用cd Miao-Yunzai以切换到Miao-Yunzai根目录
 ### 登录时报45错误
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/yzsong06/Replit-Nodejs-MiaoYunzai/main/45Login.sh)
