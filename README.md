@@ -26,5 +26,7 @@ bash <(curl -s https://raw.githubusercontent.com/yzsong06/Replit-Nodejs-MiaoYunz
 - 在Replit命令行中粘贴执行即可，理论会自动执行，参照命令行指示进行，正常登录后建议再重启一次
 ### 遇到其他问题
 - 请参考Wolai文档[Salipet云崽问题集锦](https://www.wolai.com/oA43vuW71aBnv7UsEysn4T)解决
+## 目前遇到的问题
+- 机器人puppeter chromium启动失败，不知Replit该如何解决此问题
 
 
