@@ -2,7 +2,6 @@
 - [个人博客](https://blog.sotkg.cn)
 ## 使用说明
 - 在 Replit 中新建repo，环境选择 `Bash`
-- 免费版Replit（不安全）会公开项目文件！（包括机器人配置文件）
 - 执行以下安装脚本
 
 ```bash
@@ -27,6 +26,6 @@ bash <(curl -s https://raw.githubusercontent.com/yzsong06/Replit-Nodejs-MiaoYunz
 ### 遇到其他问题
 - 请参考Wolai文档[Salipet云崽问题集锦](https://www.wolai.com/oA43vuW71aBnv7UsEysn4T)解决
 ## 目前遇到的问题
-- 机器人puppeter chromium启动失败，不知Replit该如何解决此问题
+- 机器人Puppeter Chromium启动失败，不知Replit该如何解决此问题（难办）
 
 
