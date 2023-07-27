@@ -31,5 +31,9 @@ bash <(curl -s https://raw.githubusercontent.com/yzsong06/Replit-Nodejs-MiaoYunz
 - 请参考Wolai文档[Salipet云崽问题集锦](https://www.wolai.com/oA43vuW71aBnv7UsEysn4T)解决
 ## 目前遇到的项目难关
 - ~~机器人Puppeter Chromium启动失败，不知Replit该如何解决此问题（难办，等待大佬）~~（此问题已于2023.7.27解决，解决者：一只鬆，目前完美启动Chromium）
+- Replit WebView特性使得锅巴面板在其他会广播端口的插件安装后会失效（例如chatGPT插件，这严格意义上不算技术问题，是Replit特性）
+## 其他支持
+- Replit安装依赖借助的是Nix软件包系统，其依赖存在时间流逝更新，但总体大版本号基本保持不变（本项目使用23.05的nix软件包），无需担心项目过时
+- 如遇Wolai文档都无法解决的问题，可在此仓库提交issue请求解决（尽量提交Replit使用中的问题）
 
 
