@@ -1,7 +1,7 @@
 run = ["bash","main.sh"]
 
 [nix]
-channel = "stable-21_11"
+channel = "stable-23_05"
 
 [env]
 XDG_CONFIG_HOME = "/home/runner/.config"
