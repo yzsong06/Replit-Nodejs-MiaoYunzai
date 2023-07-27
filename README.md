@@ -30,6 +30,6 @@ bash <(curl -s https://raw.githubusercontent.com/yzsong06/Replit-Nodejs-MiaoYunz
 ### 遇到其他问题
 - 请参考Wolai文档[Salipet云崽问题集锦](https://www.wolai.com/oA43vuW71aBnv7UsEysn4T)解决
 ## 目前遇到的项目难关
-- 机器人Puppeter Chromium启动失败，不知Replit该如何解决此问题（难办，等待大佬）
+- ~~机器人Puppeter Chromium启动失败，不知Replit该如何解决此问题（难办，等待大佬）~~（此问题已于2023.7.27解决，解决者：一只鬆，目前完美启动Chromium）
 
 
