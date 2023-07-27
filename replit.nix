@@ -1,11 +1,9 @@
 { pkgs }: {
 	deps = [
-			pkgs.nodejs-16_x
-    	pkgs.chromium
+     	pkgs.wget
+     	pkgs.chromium
      	pkgs.redis
-			pkgs.nodejs-16_x
-      pkgs.nodePackages.typescript-language-server
+			pkgs.nodejs_18
       pkgs.nodePackages.pnpm
-      pkgs.replitPackages.jest
 	];
 }
