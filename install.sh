@@ -1,6 +1,7 @@
 echo Replit Miao-Yunzai一键部署脚本
 echo By The 一只鬆（yzsong06）
 echo 部署仓库开源地址：https://github.com/yzsong06/Replit-Nodejs-MiaoYunzai
+echo 本项目严禁商用，部署脚本开源于Github
 echo 安装基础运行需求环境
 nix-env -iA nixpkgs.nodePackages.pnpm
 nix-env -iA nixpkgs.wget
