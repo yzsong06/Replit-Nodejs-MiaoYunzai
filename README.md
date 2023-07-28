@@ -1,5 +1,7 @@
 # 在Replit部署Miao-Yunzai聊天机器人  
 - [个人博客](https://blog.sotkg.cn)
+- [Gitee镜像仓库](https://gitee.com/yzsong06/Replit-Nodejs-MiaoYunzai)
+- [Github主仓库](https://github.com/yzsong06/Replit-Nodejs-MiaoYunzai)
 ## 使用说明
 - 在 Replit 中新建repo，环境选择 `Bash`
 - 执行以下安装脚本
