@@ -29,6 +29,8 @@ bash <(curl -s https://raw.githubusercontent.com/yzsong06/Replit-Nodejs-MiaoYunz
 - 在Replit命令行中粘贴执行即可，理论会自动执行，参照命令行指示进行，正常登录后建议再重启一次
 ### 停止项目时一直处于Stopping
 - 可能是Redis服务没有正确停止，可使用`kill 9 {pid}`指令手动杀死Redis服务，Redis Pid请查看Console输出中有关Redis数据库部分详情中的Pid
+### 项目保活
+可以安装锅巴插件后用探针访问后台地址保活
 ### 遇到其他问题
 - 请参考Wolai文档[Salipet云崽问题集锦](https://www.wolai.com/oA43vuW71aBnv7UsEysn4T)解决
 ## 目前遇到的项目难关
