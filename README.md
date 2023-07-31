@@ -2,6 +2,7 @@
 - [个人博客](https://blog.sotkg.cn)
 - [Gitee镜像仓库](https://gitee.com/yzsong06/Replit-Nodejs-MiaoYunzai)
 - [Github主仓库](https://github.com/yzsong06/Replit-Nodejs-MiaoYunzai)
+- 如果你觉得本项目不错，一个免费的Star并不会浪费你多少时间
 ## 使用说明
 - 在 Replit 中新建repo，环境选择 `Bash`
 - 执行以下安装脚本
