@@ -1,4 +1,4 @@
-#Chromimum启动指令调谐
+#Chromimum启动路径获取
 export PUPPETEER_EXECUTABLE_PATH=$(which chromium)
 #切换到云崽根目录
 cd Miao-Yunzai
