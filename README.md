@@ -1,5 +1,6 @@
-# 在Replit部署Miao-Yunzai聊天机器人  
-- [个人博客](https://blog.sotkg.cn)
+# 在Replit部署Miao-Yunzai聊天机器人（停更）
+> 本项目已终止维护支持，目前仅保持勉强可用状态
+- [个人博客](https://sotkg.link)
 - [Gitee镜像仓库](https://gitee.com/yzsong06/Replit-Nodejs-MiaoYunzai)
 - [Github主仓库](https://github.com/yzsong06/Replit-Nodejs-MiaoYunzai)
 - 如果你觉得本项目不错，一个免费的Star并不会浪费你多少时间
